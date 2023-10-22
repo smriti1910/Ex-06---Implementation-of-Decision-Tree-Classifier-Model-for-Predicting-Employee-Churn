@@ -22,6 +22,7 @@ Developed by: Smriti .B
 RegisterNumber:  212221040156
 */
 ```
+```
 import pandas as pd
 data=pd.read_csv("/content/Employee.csv")
 data.head()
@@ -52,6 +53,7 @@ accuracy
 
 print(y_pred)
 dt.predict([[0.5,0.8,9,260,6,0,1,2]])
+```
 
 ## Output:
 ![image](https://github.com/smriti1910/Ex-06---Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/133334803/f73a6b6a-dc8d-46b9-bec0-925f2987b8b4)
