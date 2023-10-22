@@ -56,18 +56,39 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
+```
 ![image](https://github.com/smriti1910/Ex-06---Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/133334803/f73a6b6a-dc8d-46b9-bec0-925f2987b8b4)
+```
+```
 ![image](https://github.com/smriti1910/Ex-06---Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/133334803/fdbd28e8-5c14-4dcc-94b2-a4f2f116dac4)
+```
+```
 ![image](https://github.com/smriti1910/Ex-06---Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/133334803/3e00b52b-efa3-4fe2-9318-d76b368eb014)
+```
+```
 ![image](https://github.com/smriti1910/Ex-06---Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/133334803/021f53bb-329c-46a3-987e-5b5b69d65b6f)
+```
+```
 ![image](https://github.com/smriti1910/Ex-06---Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/133334803/82c38a2a-c053-4fb9-8ce2-aa0a54f41817)
+```
+```
 ![image](https://github.com/smriti1910/Ex-06---Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/133334803/4128b7da-8aa6-4224-bd12-4623e0cdb4fa)
+```
+```
 ![image](https://github.com/smriti1910/Ex-06---Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/133334803/ed4abbf1-f5bd-4c6e-85ce-fbf43d72326f)
+```
+```
 ![image](https://github.com/smriti1910/Ex-06---Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/133334803/d5c6c6f2-0adb-4ff7-b269-9abb660a708e)
+```
+```
 ![image](https://github.com/smriti1910/Ex-06---Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/133334803/13872b4b-f536-4593-8a7c-5c2c27d77038)
+```
+```
 ![image](https://github.com/smriti1910/Ex-06---Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/133334803/b2c9fa75-ce3e-4fcf-b16f-89732c9b04e4)
+```
+```
 ![image](https://github.com/smriti1910/Ex-06---Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/133334803/d49e4ec1-76e9-4faa-b20b-27a994b5849f)
-
+```
 
 
 ## Result:
